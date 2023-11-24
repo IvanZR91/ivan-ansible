@@ -1,2 +1,2 @@
 # ivan-ansible
-Aimed for practicing Ansible
+Aimed for practising Ansible
