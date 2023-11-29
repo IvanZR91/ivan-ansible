@@ -1,0 +1,10 @@
+# install_httpd.yml
+---
+- name: Install Apache (httpd) using dnf
+  hosts: 127.0.0.1
+  connection: local
+  tasks: 
+   - name: Install Apache (httpd) using dnf
+     ansible.builtin.dnf:
+       name: httpd
+       state: latest
