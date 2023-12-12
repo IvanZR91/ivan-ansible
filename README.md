@@ -18,6 +18,7 @@ $ git add . && git commit --amend
 # push the work
 $ git push origin main
 #todo
-# how to create new branch 
+# how to create new branch
+# doing some simulation 
 ```
 
